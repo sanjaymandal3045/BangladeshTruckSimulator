@@ -1,0 +1,17 @@
+﻿Build started 12/10/2019 23:29:05.
+     1>Project "C:\Users\88016\Documents\BangladeshTruckSimulator\BTS Final Version 11\Demo Car\Demo Car\Demo Car.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Demo Car.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Demo Car.vcxproj -> C:\Users\88016\Documents\BangladeshTruckSimulator\BTS Final Version 11\Demo Car\Debug\Demo Car.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Demo Car.unsuccessfulbuild".
+         Touching "Debug\Demo Car.lastbuildstate".
+     1>Done Building Project "C:\Users\88016\Documents\BangladeshTruckSimulator\BTS Final Version 11\Demo Car\Demo Car\Demo Car.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

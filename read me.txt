@@ -1,0 +1,6 @@
+Abdullah Al Noman -----------18.02.04.042
+
+
+In this version i have included main menu and level 01 back ground animation.Connection between main menu options has been done. Only Story and Credits are Left. Also
+Scoring system truck movement and zombie animations are left.I have commented everything inside source code for understanding the functions and variables i have used.
+This one upgraded and a new header file has been used which is  "stb_image.h" .To understand this header please read another "readme.txt" text created by Junaed sir.
